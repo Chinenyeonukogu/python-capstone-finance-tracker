@@ -34,6 +34,7 @@ Yikes, that’s a negative number. I need to work harder!
 
 ## Author
 Chinenye Onukogu
-IT Specialist | Aspiring Technical Project Manager
+Aspiring Technical Project Manager
+passionate about AI-driven innovation.
 GitHub: @Chinenyeonukogu
 
