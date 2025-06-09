@@ -1,40 +1,44 @@
-# Python Gen AI Project
+Here's a professional and clear `README.md` for your GitHub repository:
 
-This project was created as part of a Python assignment focused on:
-- Using variables
-- Performing basic math operations
-- Applying conditional statements
-- Handling errors gracefully
+---
 
-## Tasks Covered
+```markdown
+# 🐍 Python Loops Assignment
 
-- **Task 1**: Create and print name, age, and height
-- **Task 2**: Perform addition, subtraction, multiplication, and division
-- **Task 3**: Use `if`, `elif`, and `else` to check if a number is positive, negative, or zero
+This project contains three beginner-friendly Python programs that demonstrate the use of **loops** (`while` and `for`) to solve practical problems.
+It was created as part of a learning assignment to strengthen loop fundamentals in Python.
 
-## How to Run
+### ✅ Task 1: Countdown Timer (Using `while` loop)
+A simple countdown timer that takes a starting number from the user and counts down to 1, finishing with a celebratory message.
 
-Make sure Python is installed on your computer.
-In the terminal, run the following command:
+**Example:**
+Enter a starting number: 5
+5 4 3 2 1 Blast off! 🚀
 
-```bash
-python Main.py
+### ✅ Task 2: Multiplication Table (Using `for` loop)
+Generates the multiplication table (up to 12) for a number provided by the user.
 
-** Sample output **
+**Example:**
+Enter a number: 4
+4 x 1 = 4
+4 x 2 = 8
+...
+4 x 12 = 48
 
-Hey there, my name is Chinenye! I'm 30 years old and 5.8 feet tall. I'm from the United States and I love to code.
+### ✅ Task 3: Factorial Calculator (Using `for` loop)
+Calculates the factorial of a number input by the user.
 
-The sum of 10 and 20 is: 30
-The difference when 20 is subtracted from 10 is: -10
-The product of 10 and 20 is: 200
-The result of dividing 10 by 20 is: 0.5
+**Example:**
+Enter a number: 5
+The factorial of 5 is 120.
 
-Quick! Enter a number: -5
-Yikes, that’s a negative number. I need to work harder!
+## 🚀 How to Run This Project
 
-## Author
-Chinenye Onukogu
-Aspiring Technical Project Manager
-passionate about AI-driven innovation.
-GitHub: @Chinenyeonukogu
+1. Clone the repository or download the `.py` file.
+2. Open the project in PyCharm (or any Python IDE).
+3. Run the script:  
 
+## 🛠️ Requirements
+
+* Python 3.6+
+* No external libraries needed.
